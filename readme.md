@@ -31,15 +31,13 @@ Abra seu terminal ou prompt de comando e clone o projeto:
 
 ```bash
 git clone https://github.com/gJuniordev/game-detona-ralph.git
-cd [SEU_REPOSITORIO]
+cd game-detona-ralph
 ```
 
 ---
 
 ### 2. Estrutura de Arquivos
-Certifique-se de que a sua estrutura de arquivos está correta, principalmente a pasta de áudios:
-
-<img width="206" height="167" alt="image" src="https://github.com/user-attachments/assets/82058973-c250-4c6e-a096-ac366b1bd021" />
+Certifique-se de que a sua estrutura de arquivos está correta, principalmente a pasta de áudios.
 
 ### 3. Iniciar o Jogo
 Como o projeto é puramente estático (sem a necessidade de um servidor back-end), basta abrir o arquivo index.html em seu navegador de preferência.
@@ -70,5 +68,6 @@ Este projeto foi desenvolvido como parte da **Formação CSS Web Developer** da 
 <div align="center">
 Desenvolvido com 💙 por [Gilcélio Júnior] como projeto da [DIO.me](https://www.dio.me)
 </div>
+
 
 
