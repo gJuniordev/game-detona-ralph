@@ -1,8 +1,7 @@
 # 💥 Jogo Detona Ralph (Whac-A-Mole)
 
 ![Badge de Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%2FCSS%2FJavaScript-yellowgreen)
-![Badge de Status](https://imgểnios/badge/Status-Concluído-blue)
-[![GitHub license](https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/LICENSE)
+![Badge de Status](https://img.shields.io/badge/Status-Concluído-blue)
 
 ---
 
@@ -71,4 +70,5 @@ Este projeto foi desenvolvido como parte da **Formação CSS Web Developer** da 
 <div align="center">
 Desenvolvido com 💙 por [Gilcélio Júnior] como projeto da [DIO.me](https://www.dio.me)
 </div>
+
 
